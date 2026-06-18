@@ -1,6 +1,9 @@
 #cartoes{
     display: flex;
-    justify-content: center;
+    background-color: black;
+    height: 500px;
+    justify-content: space-between;
+    align-items: stretch;
 }
 
 .grupo{
